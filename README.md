@@ -86,13 +86,13 @@ A Python web application that generates professional resumes from LinkedIn profi
 
 1. **Clone or navigate to the project directory**
    ```bash
-   cd /Users/vedanshdhawan/ResumeBuilder
+   cd /Users/lakshay212004/ResumeBuilder
    ```
 
 2. **Create a virtual environment** (recommended)
    ```bash
    python3 -m venv venv
-   source venv/bin/activate  # On macOS/Linux
+   source venv/bin/activate 
    ```
 
 3. **Install dependencies**
