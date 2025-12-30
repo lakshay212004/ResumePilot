@@ -1,6 +1,6 @@
-# LinkedIn Resume Builder
+ResumePilot(Linkedin Resume Builder)
 
-A simple Python web application that generates professional PDF resumes from LinkedIn profile content.
+A Python web application that generates professional resumes from LinkedIn profile.
 
 ## ✨ Features
 
